@@ -17,8 +17,8 @@
     'license': 'AGPL-3',
     'images': [],
     'data': [
-        'views/hr_contract_view.xml',
-        'views/hr_payroll_view.xml',
+        'view/hr_contract_view.xml',
+        'view/hr_payroll_view.xml',
         'data/hr.salary.rule.xml',
     ],
     'installable': True
