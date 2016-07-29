@@ -3,7 +3,7 @@
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl).
 
 
-from openerp import models, fields
+from openerp import api, models, fields
 
 
 class AccountInvoice(models.Model):
