@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<odoo>
+<openerp>
     <record model="ir.ui.view" id="hr_contract_form">
         <field name="name">hr.contract.form.view</field>
         <field name="model">hr.contract</field>
@@ -27,4 +27,4 @@
             </field>
         </field>
     </record>
-</odoo>
+</openerp>
